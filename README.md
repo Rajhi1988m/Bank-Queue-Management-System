@@ -1,5 +1,5 @@
 # Bank-Queue-Management-System
-# Source Code for Bank Queue Management System
+### Source Code for Bank Queue Management System
 The project was written using C++. The fundamental goal of our project was to build an online bank management system that automates all the banking processes, thus providing a user-friendly interface for clients. 
 By automating the bank process, any information related to the user can be searched easily as well as it can help maintain data effectively and efficiently. 
 In our banking system, four main features are displayed on our menu screen. They are: open a new customer account, view details of an account by logging in to
