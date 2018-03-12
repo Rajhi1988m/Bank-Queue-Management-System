@@ -8,19 +8,29 @@ In addition, it only allows authorized clients to access different functions/pro
 Furthermore, users can manage all bank account activities by selecting one of the following options:
 
 •	User menu options
+
 •	Create an account
+
 •	View current account balance
+
 •	Search a particular account holder details
+
 •	Delete an account
+
 •	Add funds to an account
+
 •	Withdraw funds from an account
+
 •	Ministatement of all transactions made on an account
+
 •	Transfer funds from one account to another account
+
 •	Put funds as a fixed deposit on an account (along with the interest rate of 6%, 8%, and 10%)
+
 •	View a fixed deposit on an account
+
 •	View transactions made by the user
+
 •	Update an account by providing new information
 
-Clients can also manage the following account types: savings account, current account, fixed deposit account, and other account. 
-The project considered all the above-mentioned features to meet the requirements of an arbitrary bank. Please refer to the bank queues system zip folder 
-to access the specification and implementation files. To demonstrate all the above features, screenshots of the program output are displayed on the next page, step-by-step along with the guidelines. 
+Clients can also manage the following account types: savings account, current account, fixed deposit account, and other account. The project considered all the above-mentioned features to meet the requirements of an arbitrary bank. Please refer to the bank queues system zip folder to access the specification and implementation files. To demonstrate all the above features, screenshots of the program output are displayed on the next page, step-by-step along with the guidelines. 
